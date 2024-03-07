@@ -29,5 +29,5 @@
 </div>
 
 <div>
-  ![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonFelCosta\&show_icons=true\&theme=radical)
+  ![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonFelCosta)
 </div>
