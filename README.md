@@ -28,6 +28,4 @@
   
 </div>
 
-<div>
   ![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonFelCosta)
-</div>
