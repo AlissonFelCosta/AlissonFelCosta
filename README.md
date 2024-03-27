@@ -33,9 +33,7 @@
 
 ##
 
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact)
+![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
 
 ##
 
