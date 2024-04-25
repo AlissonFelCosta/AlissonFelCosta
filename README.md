@@ -1,9 +1,6 @@
-## 🎲 It's my home, Welcome 🎲!
+# 🎲 Hello World, Welcome! 🎲
 
-🚀 I’m currently learning Reactjs<br>⭐ Ask me anything about Angular<br>🃏 Fun fact: Programmers using light mode are not welcome
-
-
-## Tech Stack 💻
+## 💻 Tech Stack
 <div style="display: inline_block"><br>
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Alisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,7 +23,7 @@
 	<img align="center" alt="Alisson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-## Let's Connect ⚡
+## ⚡ Let's Connect
  
 <div> 
 	<a href="https://www.instagram.com/_alissonfelipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
