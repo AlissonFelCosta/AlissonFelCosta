@@ -1,7 +1,7 @@
-## 🎲 Ladies and Gentlemen! 🎲
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
 
-## 💻 Tech Stack
-<div style="display: inline_block"><br>
+## Tech Stack
+<div align="center" style="display: inline_block"><br>
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Alisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 	<img align="center" alt="Alisson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,18 +23,24 @@
 	<img align="center" alt="Alisson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-## ⚡ Let's Connect
- 
-<div> 
-	<a href="https://www.instagram.com/_alissonfelipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-	<a href = "mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/alisson-felipe-23521a176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## GitHub Stats:
+
+<div align="center">  
+  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=gruvbox" alt="Github-stats" /> 
+  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=gruvbox" />
 </div>
 
-## 📊 GitHub Stats:
+<!-- ![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
+-->
 
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
+## Let's Connect
+ 
+<div align="center"> 
+	<a href="https://www.instagram.com/_alissonfelipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank"></a>
+	<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=yellow" target="_blank"></a> 
+	<a href="mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=yellow" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/alisson-felipe-23521a176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=yellow" target="_blank"></a> 
+</div>
 
 ##
 
@@ -43,3 +49,6 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 	<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer"/>
