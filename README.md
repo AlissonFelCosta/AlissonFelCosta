@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4AF37&size=35&center=true&vCenter=true&width=1000&lines=Ladies+and+gentlemen!;Witness+the+art+of+development!;;;♠&font=Garamond?)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6137d4&size=35&center=true&vCenter=true&width=1000&lines=Ladies+and+gentlemen!;Witness+the+art+of+development!;;;♠&font=Garamond?)
 
 ## Tech Stack
 <div align="center" style="display: inline_block"><br>
@@ -33,8 +33,8 @@
 ## GitHub Stats:
 
 <div align="center">  
-  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=gruvbox" alt="Github-stats" /> 
-  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=gruvbox" />
+  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=radical" alt="Github-stats" /> 
+  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 <!-- ![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
@@ -43,14 +43,14 @@
 ## Let's Connect
  
 <div align="center"> 
-	<a href="https://www.instagram.com/_alissonfelipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank"></a>
-	<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=yellow" target="_blank"></a> 
-	<a href="mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=yellow" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/alisson-felipe-23521a176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=yellow" target="_blank"></a> 
+	<a href="https://www.instagram.com/_alissonfelipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=6137d4" target="_blank"></a>
+	<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=6137d4" target="_blank"></a> 
+	<a href="mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=6137d4" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/alisson-felipe-23521a176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=6137d4" target="_blank"></a> 
 </div>
 
 ##
 
 <img src="https://raw.githubusercontent.com/AlissonFelCosta/AlissonFelCosta/output/snake.svg" alt="Snake animation" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=footer"/>
