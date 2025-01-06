@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=header"/>
-
+<!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6137d4&size=35&center=true&vCenter=true&width=1000&lines=Ladies+and+gentlemen!;Witness+the+art+of+development!;;;♠&font=Garamond?)
-
+-->
 ## Tech Stack
 <div align="center" style="display: inline_block"><br>
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
