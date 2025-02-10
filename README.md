@@ -24,7 +24,7 @@
 
 <div align="center" style="display: inline_block"><br>
 	<!-- <img align="center" alt="Alisson-TOTVS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/96/totvs_icon_131953.png"> -->
-	<img align="center" alt="Alisson-ADVPL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png">
+	<img align="center" alt="Alisson-ADVPL" height="30" width="40" src="https://www.svgrepo.com/show/373420/advpl.svg">
 	<img align="center" alt="Alisson-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
 	<img align="center" alt="Alisson-SocketIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg">
 	<img align="center" alt="Alisson-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
