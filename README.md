@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6137d4&size=35&center=true&vCenter=true&width=1000&lines=Ladies+and+gentlemen!;Witness+the+art+of+development!;;;♠&font=Garamond?)
 -->
 
-## Tech Stack
+## <img align="center" alt="Ditto" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/stack-of-cards-2038527-1718784.png?f=webp&w=256"> Tech Stack 
 <!-- Badges -->
 <div align="center" style="display: inline_block"><br>
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +35,7 @@
         <img align="center" alt="Alisson-Rxjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
 </div>
 
-## GitHub Stats:
+## <img align="center" alt="Ditto" height="30" width="30" src="https://img.icons8.com/?size=48&id=16460&format=png"> GitHub Stats:
 
 <!-- Git Status-->
 <div align="center">  
@@ -49,7 +49,7 @@
 <!-- Trofeus -->
  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AlissonFelCosta&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## Let's Connect
+## <img align="center" alt="Ditto" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/croupier-male-2038517-1718774.png?f=webp&w=256"> Let's Connect
 
  <!-- Redes Sociais -->
 <div align="center"> 
