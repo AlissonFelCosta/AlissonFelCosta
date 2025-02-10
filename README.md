@@ -1,10 +1,13 @@
+<!-- imagem cabecalho -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=header"/>
 
+<!-- Letreiro -->
 <!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6137d4&size=35&center=true&vCenter=true&width=1000&lines=Ladies+and+gentlemen!;Witness+the+art+of+development!;;;♠&font=Garamond?)
 -->
 
 ## Tech Stack
+<!-- Badges -->
 <div align="center" style="display: inline_block"><br>
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Alisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,6 +37,7 @@
 
 ## GitHub Stats:
 
+<!-- Git Status-->
 <div align="center">  
   <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=radical" alt="Github-stats" /> 
   <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=radical" />
@@ -42,8 +46,12 @@
 <!-- ![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
 -->
 
+<!-- Trofeus -->
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AlissonFelCosta&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 ## Let's Connect
- 
+
+ <!-- Redes Sociais -->
 <div align="center"> 
 	<a href="https://www.instagram.com/_alissonfelipp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=6137d4" target="_blank"></a>
 	<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=6137d4" target="_blank"></a> 
@@ -53,6 +61,8 @@
 
 ##
 
+<!-- Cobrinha de commits -->
 <img src="https://raw.githubusercontent.com/AlissonFelCosta/AlissonFelCosta/output/snake.svg" alt="Snake animation" />
 
+<!-- imagem Rodape -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=footer"/>
