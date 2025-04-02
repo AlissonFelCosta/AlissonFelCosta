@@ -40,7 +40,7 @@
 <!-- Git Status-->
 <div align="center">  
   <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=radical" alt="Github-stats" /> 
-  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=radical" />
+  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=radical&langs_count=20" />
 </div>
 
 <!-- ![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
