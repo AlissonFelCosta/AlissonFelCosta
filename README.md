@@ -59,6 +59,7 @@
 	<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=6137d4" target="_blank"></a> 
 	<a href="mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=6137d4" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/alisson-felipe-23521a176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=6137d4" target="_blank"></a> 
+	<!-- <a href="https://dev.to/nome_do_usuario" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=6137d4" target="_blank"></a> -->
 </div>
 
 ##
