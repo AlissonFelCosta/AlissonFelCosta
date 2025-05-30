@@ -35,6 +35,8 @@
 	<img align="center" alt="Alisson-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
 	<img align="center" alt="Alisson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
         <img align="center" alt="Alisson-Rxjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+        <img align="center" alt="Alisson-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+	<img align="center" alt="Alisson-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </div>
 
 ## <img align="center" alt="Ditto" height="30" width="30" src="https://img.icons8.com/?size=48&id=16460&format=png"> GitHub Stats:
