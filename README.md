@@ -69,6 +69,7 @@
 
 ##
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlissonFelCosta&repo=AlissonFelCosta&countColorcountColor&countColor=%237B1E7B"/>
 <!-- Cobrinha de commits -->
 <img src="https://raw.githubusercontent.com/AlissonFelCosta/AlissonFelCosta/output/snake.svg" alt="Snake animation" />
 
