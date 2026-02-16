@@ -1,5 +1,6 @@
 <!-- imagem cabecalho -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21b039&height=120&section=header"/>
+<!--21b039 green 6137d4 purple-->
 
 <!-- Letreiro -->
 <!--
@@ -66,7 +67,7 @@
 
 ##
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlissonFelCosta&repo=AlissonFelCosta&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlissonFelCosta&repo=AlissonFelCosta&countColorcountColor&countColor=%21b039"/>
 <!-- Cobrinha de commits -->
 <img src="https://raw.githubusercontent.com/AlissonFelCosta/AlissonFelCosta/output/snake.svg" alt="Snake animation" />
 
@@ -79,4 +80,4 @@
 
 
 <!-- imagem Rodape -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6137d4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21b039&height=120&section=footer"/>
