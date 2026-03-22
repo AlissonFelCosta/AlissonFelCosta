@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6137d4&size=35&center=true&vCenter=true&width=1000&lines=Ladies+and+gentlemen!;Witness+the+art+of+development!;;;♠&font=Garamond?)
 -->
 
-## <img align="center" alt="Ditto" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/stack-of-cards-2038527-1718784.png?f=webp&w=256"> Tech Stack 
+## <!-- <img align="center" alt="Ditto" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/stack-of-cards-2038527-1718784.png?f=webp&w=256"> --> Tech Stack 
 <!-- Badges -->
 <div align="center" style="display: inline_block"><br>
 	<img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,12 +43,12 @@
           
 </div>
 
-## <img align="center" alt="Ditto" height="30" width="30" src="https://img.icons8.com/?size=48&id=16460&format=png"> GitHub Stats:
+## <!-- <img align="center" alt="Ditto" height="30" width="30" src="https://img.icons8.com/?size=48&id=16460&format=png"> --> GitHub Stats:
 
 <!-- Git Status-->
 <div align="center">  
-  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=radical" alt="Github-stats" /> 
-  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=radical&langs_count=20" />
+  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlissonFelCosta&&rank_icon=github&count_private=true&hide_border=true&theme=merko" alt="Github-stats" /> 
+  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta&layout=compact&hide_border=true&theme=merko&langs_count=20" />
 </div>
 
 <!-- ![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlissonFelCosta\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=ffffff00) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonFelCosta\&layout=compact\&langs_count=8\&theme=transparent\&&title_color=fff)
@@ -57,11 +57,11 @@
 <!-- Trofeus -->
  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AlissonFelCosta&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## <img align="center" alt="Ditto" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/croupier-male-2038517-1718774.png?f=webp&w=256"> Let's Connect
+## <!-- <img align="center" alt="Ditto" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/croupier-male-2038517-1718774.png?f=webp&w=256"> --> Let's Connect
 
  <!-- Redes Sociais -->
 <div align="center"> 
-	<a href="mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=6137d4" target="_blank"></a>
+	<a href="mailto:alissonfelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=21b039" target="_blank"></a>
 	<!-- <a href="https://dev.to/nome_do_usuario" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=6137d4" target="_blank"></a> -->
 </div>
 
