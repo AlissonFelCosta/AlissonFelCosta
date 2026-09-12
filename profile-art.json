@@ -1,0 +1,45 @@
+{
+  "github_user": "AlissonFelCosta",
+  "terminal_user": "alisson",
+  "display_name": "Alisson Felipe",
+  "wordmark": "ALISSON FELIPE",
+  "portrait_source": "assets/ascii-portrait.svg",
+  "portrait_photo": "assets/profile.jpg",
+  "portrait_output": "assets/alisson-ascii.svg",
+  "wordmark_output": "assets/wordmark.svg",
+  "contributions_output": "assets/contrib-heatmap.svg",
+  "tech_stack_output": "assets/tech-stack.svg",
+  "language_stats_output": "assets/lang-stats.svg",
+  "wordmark_columns": 64,
+  "portrait_animation": {
+    "duration_seconds": 18.0,
+    "fade_start_seconds": 15.8,
+    "fade_seconds": 0.6,
+    "line_seconds": 0.055
+  },
+  "contribution_animation": {
+    "duration_seconds": 15.0,
+    "fade_start_seconds": 12.8,
+    "fade_seconds": 0.6,
+    "sweep_seconds": 3.6,
+    "cell_seconds": 0.55
+  },
+  "language_stats": {
+    "top": 6,
+    "excluded": ["Jupyter Notebook", "Yacc", "HTML", "CSS"]
+  },
+  "tech_stack": [
+    ["Angular", "frontend"],
+    ["TypeScript", "language"],
+    ["JavaScript", "language"],
+    ["Node.js", "backend"],
+    ["Express", "backend"],
+    ["PostgreSQL", "database"],
+    ["Firebase", "backend"],
+    ["Git", "tool"],
+    ["Docker", "tool"],
+    ["VS Code", "tool"],
+    ["ADVPL", "erp"],
+    ["TOTVS Protheus", "erp"]
+  ]
+}
